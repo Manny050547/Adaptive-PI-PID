@@ -19,7 +19,7 @@ if they are already not in the results directory (after running base_tests_copy 
 
 The files to look at are  adaptive_PI_PID and Second_dataset_results
 
-Github link for authors code and dataset in the tests folder: https://github.com/aangelopoulos/conformal-time-series
+Github link for authors code and dataset in the tests folder if needed: https://github.com/aangelopoulos/conformal-time-series
 
 to run current file on the two mentioned files click current file and run
 or 
