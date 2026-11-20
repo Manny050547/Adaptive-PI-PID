@@ -4,7 +4,7 @@ python 3.11 is reccomended a newer and above may not run the base_test.py
 
 step 1:
 cd 001395125_Manraj_Bhandal_comp1818
-,zip creates an extra folder  if that is the case use : cd Adaptive-PI-PID-main\001395125_Manraj_Bhandal_comp1818
+,zip creates an extra folder  if that is the case use : cd Adaptive-PI-PID-main/001395125_Manraj_Bhandal_comp1818
 pip install -r requirements.txt
 or
 python -m pip install -r requirements.txt
